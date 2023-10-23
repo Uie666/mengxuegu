@@ -1,0 +1,15 @@
+com\mengxuegu\blog\entities\SysMenu.class
+com\mengxuegu\blog\entities\SysUser.class
+com\mengxuegu\blog\interceptor\FeignRequestInterceptor.class
+com\mengxuegu\blog\entities\Article.class
+com\mengxuegu\blog\entities\Category.class
+com\mengxuegu\blog\entities\Question.class
+com\mengxuegu\blog\feign\IFeignSystemController.class
+com\mengxuegu\blog\entities\Advert.class
+com\mengxuegu\blog\entities\SysRole.class
+com\mengxuegu\blog\feign\IFeignArticleController.class
+com\mengxuegu\blog\feign\req\UserInfoREQ.class
+com\mengxuegu\blog\feign\IFeignQuestionController.class
+com\mengxuegu\blog\entities\Replay.class
+com\mengxuegu\blog\entities\Comment.class
+com\mengxuegu\blog\entities\Label.class

@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "mengxuegu.blog",
+      "type": "com.mengxuegu.blog.util.properties.BlogProperties",
+      "sourceType": "com.mengxuegu.blog.util.properties.BlogProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "mengxuegu.blog.aliyun",
+      "type": "com.mengxuegu.blog.util.properties.AliyunProperties",
+      "sourceType": "com.mengxuegu.blog.util.properties.BlogProperties"
+    }
+  ],
+  "hints": []
+}
