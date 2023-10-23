@@ -25,7 +25,6 @@ public class AlipayController {
 
     @Autowired
     private AlipayNewService alipayService;
-
     @ApiOperation("统一收单下单并支付接口调用")
     @GetMapping("/scanPay")
     public Result tradePagePay(@RequestParam(value = "out_trade_no", required = true)
